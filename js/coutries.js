@@ -37,6 +37,7 @@ const getCountryHTML = ({ name, flags, area, region, timezones, subregion, }) =>
 //         </div>
 //     `
 // }
+//
 
 // option 1
 // const getCountryHTML = country =>{
